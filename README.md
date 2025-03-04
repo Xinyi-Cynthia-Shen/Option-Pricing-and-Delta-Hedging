@@ -1,4 +1,4 @@
-# **Financial Derivatives and Risk Management Simulations**
+# **Option Pricing and Delta Hedging**
 
 This repository contains Python implementations of various financial models and simulations related to option pricing, hedging strategies, and portfolio management. These models use techniques such as Monte Carlo simulations, binomial trees, and stochastic processes under Geometric Brownian Motion (GBM) assumptions.
 
